@@ -1,0 +1,165 @@
+body{
+  text-align: center;
+}
+.navbar{
+  background-image: url("images/nav-img.jpg");
+  padding: 10px 20px;
+  /* margin-bottom: 1rem; */
+}
+.nav-item{
+  padding-left: 20px;
+  font-size: 1.1rem;
+}
+
+.form-inline{
+  margin-left: 10%;
+}
+
+.form-inline img{
+  width: 20px;
+  height: 20px;
+}
+.nav-image:hover{
+  opacity: 0.5;
+}
+
+.nav-item img{
+  width : 30px;
+  height: 30px;
+  object-fit: cover;
+}
+
+#Caurosel{
+  text-align: center;
+}
+.caurosel-bg{
+  background-size: cover;
+  height: 85vh;
+  margin-top: 1rem;
+}
+.carousel1{
+  background-image: url("images/carousel3.jpg");
+}
+.carousel2{
+  background-image: url("images/carousel2.jpg");
+}
+/* .carousel3{
+  background-image: url("images/carousel4.jpg");
+} */
+.Btn{
+    background-color: lightgreen;
+}
+
+.Btn{
+  width: 30%;
+  height: 3rem;
+  border-radius: 10px;
+  background-color: #D5EEBB;
+  border-width: 0;
+  box-shadow: 1.5px 2.5px 5px green;
+  font-size: 1.2rem;
+}
+
+.Btn:hover{
+  background-color: green;
+  color: #fff;
+}
+
+.text{
+  position: absolute;
+  text-align: center;
+  margin-left: 40rem;
+  margin-top: 17rem;
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+}
+h5{
+  font-size: 3rem;
+}
+
+.rating-img{
+  width: 3rem;
+  height: 3rem;
+}
+
+#Ratings{
+  text-align: center;
+  padding: 2rem 5rem 0;
+  background-color: #f8f8f8;
+}
+h6{
+  color: green;
+}
+
+#Products{
+  padding: 5rem 5rem 0;
+}
+
+.card{
+  width: 20rem;
+  height: 22rem;
+  margin: auto;
+}
+.C{
+  height: 25rem;
+}
+.deckpic{
+  width: 18rem;
+  height: 15rem;
+}
+.card-body{
+  text-align: left;
+  border-radius: 8px;
+  padding: 15px;
+  padding-bottom: 10px;
+}
+h4{
+  color : Green;
+}
+.Strikeprice{
+  color: grey;
+  text-decoration: line-through;
+  margin-bottom: 0;
+}
+h7{
+  color: grey;
+}
+
+#trending{
+    padding: 5rem 7rem;
+    background-color: #f8f8f8;
+}
+#trending img{
+  width: 15rem;
+  height: 15rem;
+  object-fit: cover;
+  border-radius: 100%;
+}
+#trending p{
+  color: grey;
+  font-size: 1.2rem;
+  margin-top: 20px;
+}
+
+#GardenDecor{
+  padding: 5rem 7rem;
+}
+.info img{
+  width: 25rem;
+  height: 25rem;
+  object-fit: contain;
+}
+
+
+#footer{
+  background-color: #f8f8f8;
+  padding: 2rem 40% 1rem;
+}
+.SM{
+  width: 2.2rem;
+  height: 2.2rem;
+  object-fit: cover;
+}
+.SM:hover{
+  opacity: 0.5;
+}

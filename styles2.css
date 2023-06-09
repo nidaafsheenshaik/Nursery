@@ -1,0 +1,40 @@
+  .navbar{
+    background-image: url("images/nav-img.jpg");
+    padding: 10px 20px;
+  }
+  .nav-item{
+    padding-left: 20px;
+    font-size: 1.1rem;
+  }
+  
+  .form-inline{
+    margin-left: 10%;
+  }
+  
+  .form-inline img{
+    width: 20px;
+    height: 20px;
+  }
+  .nav-image:hover{
+    opacity: 0.5;
+  }
+  
+  .nav-item img{
+    width : 30px;
+    height: 30px;
+    object-fit: cover;
+  }
+  #footer{
+    background-color: #f8f8f8;
+    padding: 2rem 50% 1rem;
+  }
+  .SM{
+    width: 2.2rem;
+    height: 2.2rem;
+    object-fit: cover;
+  }
+  .SM:hover{
+    opacity: 0.5;
+  }
+  
+ 
